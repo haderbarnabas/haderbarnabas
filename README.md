@@ -3,33 +3,40 @@
 🇭🇺 Magyar verzió  
 Scroll down for English 🇬🇧
 
+---
+
 ## 👤 Rólam
 
-Közgazdász végzettségű, adatorientált szakember vagyok 5 év 
-webshop üzemeltetési tapasztalattal. Analitikus szemlélettel közelítem meg 
-az üzleti folyamatokat és jelenleg tudatosan fejlesztem magam junior adatelemzői/riporting irányba.
+Közgazdász végzettségű, adatorientált szakember vagyok, több, mint 5 év gyakorlati tapasztalattal e-kereskedelmi környezetben.
 
-A következő Excel-alapú munkafolyamatokon keresztül fejlesztem az elemzői gondolkodásomat: 
-adattisztítás, KPI-számítások, kimutatások, dashboardok és üzleti következtetések készítése.
+Munkám során napi szinten dolgoztam rendelési, ügyfél-és termékadatokkal, így hatékonyan átlátom az üzleti folyamatokat.
+
+Jelenleg Excel-alapú projekteken keresztül tudatosan fejlesztem magam junior adatelemzői/reporting irányba.
+
+---
 
 ## 🛠️ Fókuszterületeim
 
 - Excel adattisztítás
-- Pivot táblák/kimutatások készítése
+- Pivot táblák és kimutatások készítése
 - KPI-számítások
 - Dashboard építés
 - Értékesítési-és ügyfélelemzés
 - Üzleti jelentések készítése
 
+---
+
 ## 📁 Portfólióprojektek
 
-Itt hamarosan megtalálhatóak lesznek az Excel-alapú elemzési projektjeim.
+Hamarosan elérhetőek lesznek Excel-alapú adatelemzési projektjeim, amelyek valós üzleti problémák elemzésére fókuszálnak.
+
+---
 
 ## 📫 Kapcsolat
 
-- LinkedIn: www.linkedin.com/in/barnabás-hadersprung-7794573a3
-- GitHub: https://github.com/haderbarnabas
-- Email: sprungy87@gmail.com
+- LinkedIn: https://www.linkedin.com/in/barnabás-hadersprung-7794573a3  
+- GitHub: https://github.com/haderbarnabas  
+- Email: sprungy87@gmail.com  
 
 ---
 
@@ -37,10 +44,13 @@ Itt hamarosan megtalálhatóak lesznek az Excel-alapú elemzési projektjeim.
 
 ## 👤 About me
 
-I'm an Economics graduate with 5 years of hands-on experience operating a webshop and an analytical mindset. I'm deliberately transitioning 
-into a junior data analyst/reporting role, currently building skills in Excel.
+I am an Economics graduate with over 5 years of hands-on experience in an e-commerce environment, working with order, customer, and product data on a daily basis.
 
-I am currently building Excel-based data analysis projects focused on data cleaning, KPI calculations, pivot tables, dashboards, and business insights.
+This experience has helped me develop a strong analytical mindset and a solid understanding of business processes.
+
+I am currently transitioning into a junior data analyst/reporting role and actively building my skills through Excel-based data analysis projects.
+
+---
 
 ## 🛠️ Focus areas
 
@@ -51,12 +61,16 @@ I am currently building Excel-based data analysis projects focused on data clean
 - Sales and customer analysis
 - Business reporting
 
+---
+
 ## 📁 Portfolio projects
 
-My Excel-based analysis projects will be uploaded here soon.
+Excel-based data analysis projects will be available here soon, focusing on real-world business problems and insights.
+
+---
 
 ## 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/barnabás-hadersprung-7794573a3
-- GitHub: https://github.com/haderbarnabas
-- Email: sprungy87@gmail.com
+- LinkedIn: https://www.linkedin.com/in/barnabás-hadersprung-7794573a3  
+- GitHub: https://github.com/haderbarnabas  
+- Email: sprungy87@gmail.com  
