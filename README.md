@@ -28,7 +28,18 @@ Jelenleg Excel-alapú projekteken keresztül tudatosan fejlesztem magam junior a
 
 ## 📁 Portfólióprojektek
 
-Hamarosan elérhetőek lesznek Excel-alapú adatelemzési projektjeim, amelyek valós üzleti problémák elemzésére fókuszálnak.
+### 📊 Sales Performance Analysis – Excel Dashboard  
+
+![Overview](UK_Dataset_Dashboard_Overview.png)
+
+Egy teljes körű értékesítési adatelemzési projekt Excelben, amely magában foglalja az adattisztítást, KPI-számításokat, pivot elemzéseket és egy üzleti döntéstámogatásra alkalmas dashboard kialakítását.
+
+**Főbb eredmények:**
+- Interaktív dashboard készítése üzleti betekintésekhez  
+- Legjobban teljesítő termékek és bevételi források azonosítása  
+- Ügyfél-és ország szintű teljesítmény elemzése
+
+🔗 GitHub: https://github.com/haderbarnabas/UK-Dataset-Analysis-Excel
 
 ---
 
@@ -65,7 +76,18 @@ I am currently transitioning into a junior data analyst/reporting role and activ
 
 ## 📁 Portfolio projects
 
-Excel-based data analysis projects will be available here soon, focusing on real-world business problems and insights.
+### 📊 Sales Performance Analysis – Excel Dashboard  
+
+![Overview](UK_Dataset_Dashboard_Overview.png)
+
+An end-to-end sales data analysis project built in Excel, including data cleaning, KPI calculations, pivot table analysis, and dashboard creation.
+
+**Key highlights:**
+- Built an interactive dashboard for business insights  
+- Identified top-performing products and revenue drivers  
+- Analyzed customer and country-level performance  
+
+🔗 GitHub: https://github.com/haderbarnabas/UK-Dataset-Analysis-Excel/edit/main/README.md
 
 ---
 
