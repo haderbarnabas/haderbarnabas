@@ -39,6 +39,7 @@ Egy teljes körű értékesítési adatelemzési projekt Excelben, amely magába
 - Legjobban teljesítő termékek és bevételi források azonosítása  
 - Ügyfél-és ország szintű teljesítmény elemzése
 
+A teljes projektmunka elérhetősége:
 🔗 GitHub: https://github.com/haderbarnabas/UK-Dataset-Analysis-Excel
 
 ---
@@ -87,7 +88,8 @@ An end-to-end sales data analysis project built in Excel, including data cleanin
 - Identified top-performing products and revenue drivers  
 - Analyzed customer and country-level performance  
 
-🔗 GitHub: https://github.com/haderbarnabas/UK-Dataset-Analysis-Excel/edit/main/README.md
+You can visit the whole project here:
+🔗 GitHub: https://github.com/haderbarnabas/UK-Dataset-Analysis-Excel
 
 ---
 
