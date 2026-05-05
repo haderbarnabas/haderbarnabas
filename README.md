@@ -55,7 +55,7 @@ Egy retail értékesítési és vásárlói viselkedést elemző Excel projekt, 
 - Időbeli trendek és szezonális mintázatok azonosítása
 
 A teljes projektmunka elérhetősége:
-🔗 GitHub: https://github.com/haderbarnabas/UK-Dataset-Analysis-Excel
+🔗 GitHub: https://github.com/haderbarnabas/Retail-Sales-Dataset-Analysis-Excel
 
 ---
 
@@ -119,7 +119,7 @@ A retail sales analysis project completed in Excel focusing on KPI calculations,
 - Identified monthly trends and key business patterns
 
 You can visit the whole project here:
-🔗 GitHub: https://github.com/haderbarnabas/UK-Dataset-Analysis-Excel
+🔗 GitHub: https://github.com/haderbarnabas/Retail-Sales-Dataset-Analysis-Excel
 
 ---
 
