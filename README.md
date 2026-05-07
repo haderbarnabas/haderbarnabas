@@ -11,7 +11,7 @@ Közgazdász végzettségű, adatorientált szakember vagyok, több, mint 5 év 
 
 Munkám során napi szinten dolgoztam rendelési, ügyfél-és termékadatokkal, így hatékonyan átlátom az üzleti folyamatokat.
 
-Jelenleg Excel-alapú projekteken keresztül tudatosan fejlesztem magam junior adatelemzői/reporting irányba.
+Jelenleg Excel-alapú projekteken keresztül tudatosan fejlesztem magam junior reporting/adminisztrátor irányba.
 
 ---
 
