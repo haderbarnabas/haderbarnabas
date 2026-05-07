@@ -75,7 +75,7 @@ I am an Economics graduate with over 5 years of hands-on experience in an e-comm
 
 This experience has helped me develop a strong analytical mindset and a solid understanding of business processes.
 
-I am currently transitioning into a junior data analyst/reporting role and actively building my skills through Excel-based data analysis projects.
+I am currently transitioning into a junior reporting/administrator role and actively building my skills through Excel-based data analysis projects.
 
 ---
 
